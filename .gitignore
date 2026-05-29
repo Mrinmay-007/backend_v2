@@ -1,0 +1,7 @@
+venv
+text
+test.txt
+.env
+.fastapicloud
+note.txt
+__pycache__
