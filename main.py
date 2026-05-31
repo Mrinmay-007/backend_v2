@@ -15,7 +15,8 @@ Base.metadata.create_all(bind=engine)
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    'https://attnendance-app.vercel.app/',
+    "https://attnendance-app-296m.vercel.app"
+    'https://attnendance-app.vercel.app',
     "https://attendance-manage-rdyu.vercel.app",
 ]
 
